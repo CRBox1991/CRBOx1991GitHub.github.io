@@ -73,7 +73,12 @@ button{
     width: 70;
     height: 80px;
     border-radius: 50%;
+    cursor: pointer;
+    
 }
+button 
+
+
 footer{
     display: flex;
     flex-direction: row;
